@@ -84,10 +84,9 @@ In order to run this project you need:
 
 👤 **Author1**
 
-- GitHub: [@amazinggacee](https://github.com/Amazinggracee)
-- Twitter: [@amazinggaceu](https://twitter.com/amazinggraceu)
-- LinkedIn: [Amarachi Dimkpa](https://linkedin.com/in/amarachi-dimkpa-070643183)
-
+- GitHub: [@Minuu7]
+- Twitter: [@minhaz_uddin_]
+- LinkedIn: [Minhaz Uddin]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
